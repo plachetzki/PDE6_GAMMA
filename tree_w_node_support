@@ -1,0 +1,305 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=203;
+	taxlabels
+	ailuropodad2hzv0
+	ailuropodag1mgs6
+	alligatora0a1u7sbw4
+	amiakt749751
+	amiakt749757
+	amiakt749758
+	anolisg1kqm6
+	anolisg1kur7
+	aotusa0a2k5cy70
+	aotusa0a2k5e4q2
+	arizonaa0a2u8bqr8
+	arizonaa0a2u8bqt7
+	astyanax11082186
+	astyanax1181187
+	austrofundulusa0a2i4cil5
+	bosp04972
+	bosp22571
+	callithrixa0a2r8ms48
+	callithrixa0a2r8n3s8
+	callorhinchus25438181
+	callorhinchus42331118
+	canise2rbg4
+	canisp54827
+	carcharhinuskt749748
+	caviaa0a286xfj1
+	caviaq9eqq8
+	cebusa0a2k5q3i1
+	cebusa0a2k5r6f6
+	cemophoraa0a2u8bqs8
+	cemophoraa0a2u8bqs9
+	cercocebusa0a2k5mhs6
+	cercocebusa0a2k5n8n2
+	cervusa0a212d7d6
+	chiloscylliumkt749747
+	chiloscylliumkt749755
+	chiloscylliumkt749756
+	chinchilla22571183
+	chinchilla8423187
+	chlorocebusa0a0d9r7n0
+	chlorocebusa0a0d9s4j7
+	colobusa0a2k5jht0
+	columbaa0a2i0liz3
+	columbaa0a2i0mjj9
+	cricetulus14738183
+	cyprinusa5lg11
+	cyprinusa5lg13
+	danio50194186
+	danioa7yyf9
+	danioq6pbp4
+	delphinapterusa0a1l5jhj3
+	delphinapterusa0a2y9pk10
+	dipodomysa0a1s3fxj2
+	dipodomysa0a1s3gii1
+	echinops2284183
+	eptatretuskt749744
+	eptatretuskt749745
+	equusf7au16
+	equusf7bea5
+	erinaceusa0a1s3adj1
+	erinaceusa0a1s3agq4
+	felis1183183
+	felisp61248
+	ficedulau3k9u0
+	ficedulau3ke15
+	gadus1160187
+	gadus370186
+	gallusq802e3
+	gallusq802e4
+	gasterosteus18478187
+	gasterosteus20606189
+	gasterosteus9119186
+	gasterosteus9120185
+	geotriakt749752
+	gorilla202281136
+	gorillag3r088
+	heterocephalus23064182
+	heterocephalusg5bj67
+	homop18545
+	homoq13956
+	hypsiglenaa0a2u8bqr5
+	hypsiglenaa0a2u8bqs6
+	iconisemiona0a1a7xsh9
+	ictalurusa0a2d0s3i4
+	ictidomysi3lvy2
+	ictidomyso55175
+	lampropeltisa0a2u8bqt9
+	lampropeltisa0a2u8bqu9
+	latimeriah3bce4
+	lepisosteus14879187
+	lepisosteuskt749749
+	lepisosteuskt749759
+	leptonychotesa0a2u3xqu8
+	leptonychotesa0a2u3yhs1
+	lithobatesh1aan5
+	lithobatesq8uuy2
+	lonchuraa0a218uly0
+	lonchuraa0a218v101
+	loxodontag3svk4
+	loxodontag3un95
+	macacaa0a2k5wew0
+	macacaa0a2k6e1a3
+	macacaa0a2k6e7f1
+	macacag7pjy4
+	mandrillusa0a2k5z0f0
+	mandrillusa0a2k6acz0
+	masticophisa0a2u8bqs4
+	masticophisa0a2u8bqv3
+	meleagrisg1n3u3
+	meleagrisg1ngx5
+	mesocricetusa0a1u7qim8
+	microcebus237821130
+	microtus23377189
+	microtusochrogaster23378183
+	monodelphisf7cxv2
+	monodelphisf7ejp2
+	mordaciakt749753
+	musp09174
+	musp61249
+	mustelam3yj69
+	mustelam3yjh7
+	myotisg1q599
+	nannospalax16694183
+	nannospalax16695177
+	nannospalax26521187
+	neomonachusa0a2y9gbp1
+	neomonachusa0a2y9h426
+	neotrygonkt749746
+	neotrygonkt749754
+	nomascusg1qv84
+	nomascusg1rzm1
+	notamacropus13145190
+	odobenusa0a2u3w8g5
+	odobenusa0a2u3wek2
+	ophiophagusv8phl7
+	oreochromis10484186
+	oreochromis6756190
+	oreochromisi3knr1
+	ornithorhynchusf6zk66
+	oryctolagusg1sq50
+	oryzias17852186
+	oryzias5002190
+	oryzias5003189
+	oryzias8816190
+	oryziash2mfc3
+	otolemurh0x2x2
+	otolemurh0x450
+	ovisw5qai6
+	ovisw5qhn4
+	pana0a2j8jg62
+	pana0a2r9bkz5
+	pantherophisa0a2u8bqv0
+	pantherophisa0a2u8br66
+	papioa0a096n9j5
+	papioa0a096nth2
+	patagioenasa0a1v4j9v2
+	patagioenasa0a1v4kww0
+	pelodiscusk7gdk3
+	petromyzonconea3rls1
+	petromyzonroda4lap0
+	physetera0a2y9err2
+	physetera0a2y9fmy7
+	poecilia17882186
+	poecilia2566190
+	poeciliaformosa19973187
+	pongoa0a2j8sqq1
+	pongoa0a2j8y2t8
+	propithecusa0a2k6em49
+	propithecusa0a2k6f6z6
+	pteropus14305183
+	pteropus81431133
+	rattusm0r4r9
+	rattusp61250
+	rhinopithecusa0a2k6k1r7
+	rhinopithecusa0a2k6l4l5
+	saimiria0a2k6shs9
+	saimiria0a2k6sv03
+	sarcophilusg3wix9
+	scleropagesa0a0p7tz62
+	scleropagesa0a0p7xrw5
+	susa0a287axh0
+	susa0a287bdb7
+	taeniopygiah0zzv3
+	takifugu863185
+	takifuguh2sld9
+	tarsiusa0a1u7sgp9
+	tarsiusa0a1u7uav4
+	tetraodon12588186
+	tetraodon8724186
+	thamnophisa0a2u4bl46
+	thamnophisa0a2u8bqx0
+	thamnophisa0a2u8br01
+	tokudaiaa0a0s3nui1
+	tursiops67621135
+	xenopus17219187
+	xenopusa4ihc2
+	xenopusa4ii06
+	xenopusq66ix8
+	xenopusq6glt6
+	xenopusq6glu4
+	xiphophorus12733190
+	xiphophorus16735187
+	xiphophorus17525184
+	xiphophorus6287186
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] (ailuropodad2hzv0:0.0,((((((((((((((((((((((ailuropodag1mgs6:0.016691,((((equusf7bea5:0.0,odobenusa0a2u3w8g5:0.0):0.0,neomonachusa0a2y9gbp1:0.0):0.0,mustelam3yj69:0.0):2.0E-6,leptonychotesa0a2u3yhs1:2.0E-6)[&label=0]:2.0E-6)[&label=0]:3.0E-6,((((((((((((((((((aotusa0a2k5e4q2:0.0,macacaa0a2k5wew0:0.0):0.0,macacaa0a2k6e7f1:0.0):0.0,chlorocebusa0a0d9s4j7:0.0):0.0,papioa0a096nth2:0.0):0.0,saimiria0a2k6shs9:0.0):0.0,cercocebusa0a2k5n8n2:0.0):0.0,propithecusa0a2k6em49:0.0):0.0,colobusa0a2k5jht0:0.0):0.0,mandrillusa0a2k6acz0:0.0):2.0E-6,cebusa0a2k5r6f6:2.0E-6)[&label=0]:2.0E-6,(rhinopithecusa0a2k6l4l5:0.034976,(sarcophilusg3wix9:2.0E-6,tarsiusa0a1u7sgp9:0.036444)[&label=82.9]:0.017468)[&label=0]:3.0E-6)[&label=0]:2.0E-6,callithrixa0a2r8ms48:0.017308)[&label=0]:3.0E-6,((((gorilla202281136:0.0,pongoa0a2j8y2t8:0.0):0.0,pana0a2j8jg62:0.0):0.0,nomascusg1rzm1:0.0):2.0E-6,homop18545:2.0E-6)[&label=45.4]:0.017416)[&label=53.3]:0.017789,otolemurh0x450:0.017313)[&label=0]:2.0E-6,microcebus237821130:3.0E-6)[&label=85.2]:0.017593,rattusm0r4r9:0.016963)[&label=0]:3.0E-6,((bosp04972:0.0,ovisw5qai6:0.0):2.0E-6,cervusa0a212d7d6:2.0E-6)[&label=0]:2.0E-6)[&label=71.4]:0.010851,((((((canisp54827:0.0,physetera0a2y9fmy7:0.0):2.0E-6,felisp61248:2.0E-6)[&label=0]:3.0E-6,(dipodomysa0a1s3gii1:0.016756,(erinaceusa0a1s3agq4:0.016725,musp09174:0.017215)[&label=0]:3.0E-6)[&label=0]:3.0E-6)[&label=0]:3.0E-6,(((delphinapterusa0a2y9pk10:3.0E-6,tursiops67621135:2.0E-6)[&label=0]:3.0E-6,ictidomysi3lvy2:0.091948)[&label=81]:0.01721,susa0a287bdb7:0.21649)[&label=0]:3.0E-6)[&label=0]:3.0E-6,(((caviaq9eqq8:0.016842,(pteropus81431133:0.035309,tokudaiaa0a0s3nui1:0.016913)[&label=0]:3.0E-6)[&label=0]:2.0E-6,heterocephalusg5bj67:2.0E-6)[&label=0]:3.0E-6,chinchilla8423187:0.016936)[&label=52.2]:0.016903)[&label=0]:2.0E-6,((monodelphisf7cxv2:0.017374,notamacropus13145190:2.0E-6)[&label=81.3]:0.018325,nannospalax26521187:0.035966)[&label=85.7]:0.015921)[&label=37.3]:0.008329)[&label=74.7]:0.014646)[&label=0]:2.0E-6,loxodontag3un95:0.016732)[&label=48.3]:0.015879,ornithorhynchusf6zk66:0.060865)[&label=78.5]:0.018017,((((((((((((alligatora0a1u7sbw4:0.02649,(ficedulau3ke15:2.0E-6,(gallusq802e4:2.0E-6,meleagrisg1n3u3:2.0E-6)[&label=91.2]:0.017822)[&label=0]:2.0E-6)[&label=91.2]:0.026607,((((callorhinchus42331118:0.144772,neotrygonkt749746:2.0E-6)[&label=45.3]:0.016265,(carcharhinuskt749748:2.0E-6,chiloscylliumkt749747:0.01716)[&label=80]:0.016047)[&label=80.4]:0.026386,patagioenasa0a1v4kww0:3.0E-6)[&label=0]:3.0E-6,columbaa0a2i0liz3:2.0E-6)[&label=55.3]:0.025314)[&label=0]:2.85E-4,anolisg1kqm6:0.090837)[&label=0]:3.0E-6,(lonchuraa0a218uly0:2.0E-6,taeniopygiah0zzv3:2.0E-6)[&label=92.2]:0.035448)[&label=85.4]:0.017694,((((((((arizonaa0a2u8bqr8:0.0,masticophisa0a2u8bqs4:0.0):0.0,lampropeltisa0a2u8bqu9:0.0):0.0,pantherophisa0a2u8br66:0.0):3.0E-6,cemophoraa0a2u8bqs9:2.0E-6)[&label=83.9]:0.017796,ophiophagusv8phl7:0.017334)[&label=0]:3.0E-6,thamnophisa0a2u8br01:3.0E-6)[&label=0]:2.0E-6,hypsiglenaa0a2u8bqs6:0.034851)[&label=87.5]:0.036384,latimeriah3bce4:0.052375)[&label=79.6]:0.019145)[&label=0]:2.0E-6,amiakt749751:0.01708)[&label=88]:0.017558,austrofundulusa0a2i4cil5:3.0E-6)[&label=86.2]:0.017568,xenopusq6glt6:0.01728)[&label=0]:3.0E-6,iconisemiona0a1a7xsh9:2.0E-6)[&label=0]:3.0E-6,cyprinusa5lg11:2.0E-6)[&label=0]:3.0E-6,(((astyanax1181187:0.092757,(lithobatesh1aan5:2.0E-6,lithobatesq8uuy2:0.017768)[&label=75.8]:0.018961)[&label=72.1]:0.015683,poeciliaformosa19973187:0.017274)[&label=0]:3.0E-6,(danioa7yyf9:0.017198,lepisosteuskt749749:0.071297)[&label=0]:3.0E-6)[&label=83]:0.017231)[&label=75]:0.015493,scleropagesa0a0p7xrw5:0.004365)[&label=78.1]:0.014622)[&label=0]:2.0E-6,xiphophorus16735187:3.0E-6)[&label=0]:3.0E-6,xenopusa4ihc2:0.016841)[&label=83.2]:0.017224,(oryziash2mfc3:3.0E-6,tetraodon8724186:2.0E-6)[&label=84.8]:0.016705)[&label=0]:2.0E-6,oreochromisi3knr1:2.0E-6)[&label=0]:2.0E-6,takifuguh2sld9:2.0E-6)[&label=77.1]:0.029878,(gadus1160187:2.0E-6,gasterosteus18478187:0.035475)[&label=86.6]:0.038853)[&label=97.3]:0.206318,(eptatretuskt749745:3.0E-6,petromyzonroda4lap0:0.045734)[&label=78.2]:0.053319)[&label=85.7]:0.113635,eptatretuskt749744:0.160007)[&label=93.6]:0.192552,((((((((((((astyanax11082186:0.252309,oreochromis10484186:0.018947)[&label=76.1]:0.021028,(gadus370186:0.038959,(gasterosteus9119186:3.0E-6,gasterosteus9120185:0.142938)[&label=95.9]:0.097468)[&label=89.5]:0.062428)[&label=74]:0.014064,tetraodon12588186:0.035753)[&label=0]:3.0E-6,oryzias17852186:3.0E-6)[&label=88.8]:0.035539,poecilia17882186:2.0E-6)[&label=30.8]:0.029873,xiphophorus6287186:0.004956)[&label=93.4]:0.1299,scleropagesa0a0p7tz62:0.088273)[&label=0]:2.0E-6,((cyprinusa5lg13:0.176199,ictalurusa0a2d0s3i4:0.429561)[&label=94]:0.41403,(danioq6pbp4:0.326303,((((gasterosteus20606189:0.469722,takifugu863185:3.0E-6)[&label=94]:0.31423,xiphophorus17525184:0.153343)[&label=61.5]:0.041037,oryzias5002190:0.118004)[&label=80.2]:0.074491,oryzias5003189:0.014806)[&label=91.7]:0.245766)[&label=22.8]:0.086518)[&label=90.7]:0.276353)[&label=99.9]:0.564424,(geotriakt749752:0.085643,mordaciakt749753:0.015547)[&label=81.5]:0.062011)[&label=0]:0.005825,(((danio50194186:0.202572,oryzias8816190:0.057173)[&label=60.5]:0.015744,((oreochromis6756190:0.118158,poecilia2566190:0.02524)[&label=82]:0.026452,xiphophorus12733190:3.0E-6)[&label=76.6]:0.043911)[&label=100]:0.724185,petromyzonconea3rls1:2.0E-6)[&label=87.4]:0.061624)[&label=96]:0.201406,((callorhinchus25438181:0.036758,chiloscylliumkt749755:0.182709)[&label=82.5]:0.07239,(chiloscylliumkt749756:0.164644,neotrygonkt749754:0.013768)[&label=84.7]:0.071802)[&label=85.2]:0.087335)[&label=86.9]:0.085273,(((xenopus17219187:0.211702,xenopusa4ii06:2.0E-6)[&label=70.6]:0.01258,xenopusq6glu4:0.044398)[&label=0]:0.012237,xenopusq66ix8:0.057669)[&label=93.5]:0.131155)[&label=73]:0.032308)[&label=15.5]:0.023432,(amiakt749757:0.076943,lepisosteuskt749759:0.041663)[&label=95.7]:0.19386)[&label=78]:0.042497,(((((anolisg1kur7:0.199914,(ficedulau3k9u0:0.016542,lonchuraa0a218v101:2.0E-6)[&label=75.6]:0.024)[&label=72.7]:0.028869,(gallusq802e3:2.0E-6,meleagrisg1ngx5:2.0E-6)[&label=87.5]:0.034206)[&label=43.6]:0.017532,(columbaa0a2i0mjj9:2.0E-6,patagioenasa0a1v4j9v2:2.0E-6)[&label=0]:3.0E-6)[&label=96.2]:0.151448,pelodiscusk7gdk3:0.009493)[&label=83.7]:0.081139,(((arizonaa0a2u8bqt7:0.03221,lampropeltisa0a2u8bqt9:3.0E-6)[&label=48.6]:0.015796,(((cemophoraa0a2u8bqs8:0.0,pantherophisa0a2u8bqv0:0.0):2.0E-6,masticophisa0a2u8bqv3:2.0E-6)[&label=0]:3.0E-6,thamnophisa0a2u8bqx0:0.032791)[&label=0]:3.0E-6)[&label=95.7]:0.049313,hypsiglenaa0a2u8bqr5:3.0E-6)[&label=94.5]:0.12053)[&label=75.4]:0.039611)[&label=93.9]:0.110115,((delphinapterusa0a1l5jhj3:2.0E-6,thamnophisa0a2u4bl46:2.0E-6)[&label=90.2]:0.035397,physetera0a2y9err2:0.052878)[&label=0]:3.0E-6)[&label=80.6]:0.016201,(((bosp22571:2.0E-6,ovisw5qhn4:2.0E-6)[&label=0]:2.0E-6,monodelphisf7ejp2:0.105181)[&label=76.6]:0.01482,oryctolagusg1sq50:0.027525)[&label=64.9]:0.009189)[&label=0]:3.0E-6,susa0a287axh0:3.0E-6)[&label=84.4]:0.018368,equusf7au16:0.017392)[&label=0]:2.0E-6,(((((((((aotusa0a2k5cy70:0.0,macacag7pjy4:0.0):0.0,chlorocebusa0a0d9r7n0:0.0):0.0,macacaa0a2k6e1a3:0.0):2.0E-6,cebusa0a2k5q3i1:3.0E-6)[&label=0]:3.0E-6,rhinopithecusa0a2k6k1r7:0.017506)[&label=0]:3.0E-6,(callithrixa0a2r8n3s8:3.0E-6,saimiria0a2k6sv03:0.017438)[&label=88.3]:0.017425)[&label=44.9]:0.017425,(homoq13956:2.0E-6,pongoa0a2j8sqq1:0.017893)[&label=83.3]:0.017736)[&label=0]:3.0E-6,gorillag3r088:2.0E-6)[&label=0]:3.0E-6,(nomascusg1qv84:2.0E-6,pana0a2r9bkz5:3.0E-6)[&label=84.8]:0.017426)[&label=84]:0.017362)[&label=0]:2.0E-6,(((((((((((amiakt749758:0.038259,lepisosteus14879187:0.045108)[&label=99.9]:0.354887,(musp61249:3.0E-6,rattusp61250:0.018526)[&label=0]:2.0E-6)[&label=59]:0.03042,((cricetulus14738183:0.040072,(microtus23377189:0.346375,microtusochrogaster23378183:0.020319)[&label=75.3]:0.071236)[&label=73.4]:0.020693,mesocricetusa0a1u7qim8:2.0E-6)[&label=82.4]:0.038227)[&label=78.6]:0.030709,dipodomysa0a1s3fxj2:0.076766)[&label=0]:3.0E-6,(nannospalax16694183:3.0E-6,nannospalax16695177:2.0E-6)[&label=100]:0.202755)[&label=80.4]:0.019081,chinchilla22571183:0.01812)[&label=0]:3.0E-6,heterocephalus23064182:0.0566)[&label=84]:0.019087,caviaa0a286xfj1:2.0E-6)[&label=92.9]:0.038349,((((erinaceusa0a1s3adj1:2.0E-6,tarsiusa0a1u7uav4:0.036861)[&label=0]:0.017523,loxodontag3svk4:0.017721)[&label=71.8]:0.017617,(otolemurh0x2x2:0.037076,pteropus14305183:0.017781)[&label=0]:2.0E-6)[&label=0]:3.0E-6,((((leptonychotesa0a2u3xqu8:0.035228,propithecusa0a2k6f6z6:0.017569)[&label=0]:3.0E-6,odobenusa0a2u3wek2:2.0E-6)[&label=0]:2.0E-6,neomonachusa0a2y9h426:0.017462)[&label=83.8]:0.017569,myotisg1q599:0.017569)[&label=0]:3.0E-6)[&label=83.1]:0.017476)[&label=0]:2.0E-6,(((((cercocebusa0a2k5mhs6:0.0,papioa0a096n9j5:0.0):2.0E-6,mandrillusa0a2k5z0f0:3.0E-6)[&label=91.9]:0.017858,felis1183183:2.0E-6)[&label=0]:3.0E-6,echinops2284183:0.100512)[&label=63.3]:0.017171,ictidomyso55175:0.055112)[&label=79.8]:0.018142)[&label=0]:3.0E-6,canise2rbg4:2.0E-6)[&label=0]:2.0E-6):3.0E-6,mustelam3yjh7:0.0);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="label";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=true;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute=null;
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute=null;
+	set nodeShapeInternal.colourAttribute=null;
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute=null;
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="sansserif";
+	set tipLabels.fontSize=5;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=true;
+	set trees.orderType="decreasing";
+	set trees.rooting=true;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+
